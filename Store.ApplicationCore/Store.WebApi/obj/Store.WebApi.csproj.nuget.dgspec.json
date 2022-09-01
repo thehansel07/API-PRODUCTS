@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.WebApi\\Store.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj",
+        "projectName": "Store.ApplicationCore",
+        "projectPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\hcabrera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hcabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.Infrastucture\\Store.Infrastucture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.Infrastucture\\Store.Infrastucture.csproj",
+        "projectName": "Store.Infrastucture",
+        "projectPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.Infrastucture\\Store.Infrastucture.csproj",
+        "packagesPath": "C:\\Users\\hcabrera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.Infrastucture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hcabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.WebApi\\Store.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.WebApi\\Store.WebApi.csproj",
+        "projectName": "Store.WebApi",
+        "projectPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.WebApi\\Store.WebApi.csproj",
+        "packagesPath": "C:\\Users\\hcabrera\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hcabrera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.ApplicationCore\\Store.ApplicationCore.csproj"
+              },
+              "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.Infrastucture\\Store.Infrastucture.csproj": {
+                "projectPath": "C:\\Users\\hcabrera\\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\\Desktop\\Proyects\\MyProyects\\Store.ApplicationCore\\Store.Infrastucture\\Store.Infrastucture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

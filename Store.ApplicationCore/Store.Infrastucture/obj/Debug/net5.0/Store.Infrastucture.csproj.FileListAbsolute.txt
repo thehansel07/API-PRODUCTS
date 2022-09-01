@@ -1,0 +1,5 @@
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.Infrastucture\obj\Debug\net5.0\Store.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.Infrastucture\obj\Debug\net5.0\Store.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.Infrastucture\obj\Debug\net5.0\Store.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.Infrastucture\obj\Debug\net5.0\Store.Infrastucture.AssemblyInfo.cs
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.Infrastucture\obj\Debug\net5.0\Store.Infrastucture.csproj.CoreCompileInputs.cache

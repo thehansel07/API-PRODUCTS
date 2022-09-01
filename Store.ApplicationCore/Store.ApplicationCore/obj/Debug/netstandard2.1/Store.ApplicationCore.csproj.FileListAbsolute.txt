@@ -1,0 +1,10 @@
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\bin\Debug\netstandard2.1\Store.ApplicationCore.deps.json
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\bin\Debug\netstandard2.1\Store.ApplicationCore.dll
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\bin\Debug\netstandard2.1\Store.ApplicationCore.pdb
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.AssemblyInfo.cs
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.dll
+C:\Users\hcabrera\OneDrive - SEGURNET CORREDORES DE SEGUROS SRL\Desktop\Proyects\MyProyects\Store.ApplicationCore\Store.ApplicationCore\obj\Debug\netstandard2.1\Store.ApplicationCore.pdb
